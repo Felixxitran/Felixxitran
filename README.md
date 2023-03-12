@@ -1,7 +1,7 @@
 
 -----------------------------------------------------------
 
-UBC - Computer Science 
-Linkedin : www.linkedin.com/in/felixxitran
-Website : https://felixxitran.github.io/portfolio/
+<p>UBC - Computer Science</p> 
+<p>Linkedin : www.linkedin.com/in/felixxitran</p> 
+<p>Website : https://felixxitran.github.io/portfolio/</p> 
 -----------------------------------------------------------
